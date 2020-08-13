@@ -1,0 +1,27 @@
+{
+  "name": "searchmail",
+  "version": "1.0.0",
+  "description": "for searching all mail of a enterprise target",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josermarinr/searchingmail-node-.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "scrapping"
+  ],
+  "author": "jose marin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josermarinr/searchingmail-node-/issues"
+  },
+  "homepage": "https://github.com/josermarinr/searchingmail-node-#readme",
+  "dependencies": {
+    "hunterio": "^1.0.0"
+  }
+}
